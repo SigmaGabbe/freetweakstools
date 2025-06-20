@@ -1,0 +1,12 @@
+What does SetTimerResolution.exe do?
+
+It's a program that lowers syetem latency by adjusting the system clock.
+Oneclick will add it to startup, adjust the resolution all automatically!
+
+SetTimerResolution Link: https://github.com/valleyofdoom/TimerResolution/releases/tag/SetTimerResolution-v1.0.0
+SetTimerResolution Tutorial: https://www.youtube.com/watch?v=AcCFZ8hhXi8
+
+
+
+
+
